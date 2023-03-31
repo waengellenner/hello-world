@@ -10,7 +10,7 @@
 
 This is an example of a GitHub repository.
 
-This is a test line
+This is a test line: "Another Day, Another Slay"
 
 Here's another test line
 
